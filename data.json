@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "eric",
+      "email": "email@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "4",
+      "name": "samantha",
+      "email": "sam@gamil.com",
+      "age": 12
+    },
+    {
+      "id": "5",
+      "name": "token",
+      "email": "email@gmail.com",
+      "age": 45
+    },
+    {
+      "id": "6",
+      "name": "clye",
+      "email": "email@gmail.com",
+      "age": 45
+    },
+    {
+      "name": "sharon",
+      "email": "sharon.email",
+      "age": 19,
+      "id": "rk8xDscFb"
+    }
+  ]
+}
